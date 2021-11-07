@@ -2,19 +2,9 @@
 
 body {
   font-family: "Source Sans Pro", sans-serif;
+  min-height: 2000px;
 }
 
-nav ul li a {
-  font-weight: 600;
-  margin-right: 30px;
-}
-
-nav .Tea-Center-Apps {
-  font-size: 1rem;
-  margin-right: 5px;
-}
-
-nav .btnApps {
-  background-color: red;
-  font-size: 0.7rem;
+nav {
+  border-radius: 35px 35px 0 0;
 }
